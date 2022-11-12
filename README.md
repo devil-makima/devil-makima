@@ -12,5 +12,5 @@
 
 ### 👀 Visitors
 <div align="left">
-  <img src="https://count.getloli.com/get/@lugh-tuatha" alt="devil-makima's count"/>
+  <img src="https://count.getloli.com/get/@devil-makima" alt="devil-makima's count"/>
 </div>
