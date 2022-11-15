@@ -19,8 +19,13 @@ export default {
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=devil-makima&theme=react" width="48%" >
 <br>
 <p align="left">
-  <img src="https://preview.redd.it/wvni2zbmgza61.jpg?width=3000&format=pjpg&auto=webp&s=5fb0f2801f95ee2069ad576dc23134719956715b" width="350">
+  <img src="https://images2.alphacoders.com/114/1145884.jpg" width="390.5" height="215">
+  <img src="https://activity-graph.herokuapp.com/graph?username=devil-makima&theme=react-dark"
+       width="60.98%"
+  >
 </p>
+
+
 
 ### 👀 Visitors
 ![devil-makima](https://count.getloli.com/get/@devil-makima?theme=rule34)
