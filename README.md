@@ -18,4 +18,4 @@ export default {
 <br>
 
 ### 👀 Visitors
-![devil-makima](https://count.getloli.com/get/@u3u?theme=rule34)
+![devil-makima](https://count.getloli.com/get/@devil-makima?theme=rule34)
