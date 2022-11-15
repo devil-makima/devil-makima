@@ -18,12 +18,12 @@ export default {
 <img  src="https://github-readme-stats.vercel.app/api?username=devil-makima&count_private=true&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=devil-makima&theme=react" width="48%" >
 <br>
-<p align="left">
-  <img src="https://images2.alphacoders.com/114/1145884.jpg" width="390.5" height="185">
-  <img src="https://activity-graph.herokuapp.com/graph?username=devil-makima&theme=react-dark"
-       width="53.98%"
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NoDocCat/NoDocCat/master/Tairitsu.png" width="350">
+  <img src="https://github-readme-stats.vercel.app/api?username=devil-makima&show_icons=true&count_private=true&line_height=30"
+       width="56%" height="350"
   >
-</p>
 
 
 
