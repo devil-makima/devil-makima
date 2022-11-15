@@ -21,7 +21,7 @@ export default {
 <p align="left">
   <img src="https://images2.alphacoders.com/114/1145884.jpg" width="390.5" height="215">
   <img src="https://activity-graph.herokuapp.com/graph?username=devil-makima&theme=react-dark"
-       width="60.98%"
+       width="50.98%"
   >
 </p>
 
