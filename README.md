@@ -18,6 +18,4 @@ export default {
 <br>
 
 ### 👀 Visitors
-<div align="left">
-  <img src="https://count.getloli.com/get/@devil-makima" alt="devil-makima's count"/>
-</div>
+![devil-makima](https://count.getloli.com/get/@u3u?theme=rule34)
