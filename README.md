@@ -15,10 +15,6 @@ export default {
 
 ## 📊 Github Status:
 
-<img  src="https://github-readme-stats.vercel.app/api?username=devil-makima&count_private=true&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=devil-makima&theme=react" width="48%" >
-<br>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/NoDocCat/NoDocCat/master/Tairitsu.png" width="350">
   <img src="https://github-readme-stats.vercel.app/api?username=devil-makima&show_icons=true&count_private=true&line_height=30"
