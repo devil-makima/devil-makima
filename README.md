@@ -24,8 +24,10 @@ export default {
   <img src="https://github-readme-stats.vercel.app/api?username=devil-makima&show_icons=true&count_private=true&line_height=30"
        width="56%" height="350"
   >
-
-
+  
+<a href="#">
+   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=devil-makima&theme=buefy-dark&date_format=M%20j%5B%2C%20Y%5D" />
+</a><br><br>
 
 ### 👀 Visitors
 ![devil-makima](https://count.getloli.com/get/@devil-makima?theme=rule34)
