@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @devil-makima
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+```js
+export default {
+  pronouns: 'She' || 'Her',
+  country: 'Philippines',
+  technologies:{
+    backEnd: ['nodejs', 'php'],
+    frontEnd: ['javascript', 'jquery', 'react', 'next', 'tailwind'],
+    database: ['mongo','mysql'],
+    misc: ['sourcepawn']
+  }
+}
+```
 
 ## 📊 Github Status:
 
