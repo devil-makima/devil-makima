@@ -18,7 +18,7 @@ export default {
 <p align="center">
   <img src="https://raw.githubusercontent.com/NoDocCat/NoDocCat/master/Tairitsu.png" width="350">
   <img src="https://github-readme-stats.vercel.app/api?username=devil-makima&show_icons=true&count_private=true&line_height=30"
-       width="56%" height="350"
+       width="650" height="350"
   >
   
 <a href="#">
